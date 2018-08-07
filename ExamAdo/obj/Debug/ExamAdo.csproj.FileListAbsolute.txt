@@ -1,0 +1,15 @@
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\bin\Debug\ExamAdo.exe.config
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\bin\Debug\ExamAdo.exe
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\bin\Debug\ExamAdo.pdb
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.csprojResolveAssemblyReference.cache
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.Form1.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.Professeur.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.Properties.Resources.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.csproj.GenerateResource.Cache
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.exe
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.pdb
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.Consultation.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.TopLycee.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.rapport.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.print.resources
+C:\Users\BL\Documents\Visual Studio 2013\Projects\Ado.net\ExamAdo\ExamAdo\obj\Debug\ExamAdo.rep_region.resources
